@@ -1,13 +1,15 @@
 black
 flake8
-ipython
-isort
-jupyterlab
+kaleido
+kmodes
+lightgbm
 matplotlib
-notebook
 numpy
+openpyxl
 pandas
+ydata-profiling
 pip
+plotly-express
 python-dotenv
 scikit-learn
--e .
+xgboost
